@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Mobile Applications
+- 🔭 I’m currently working on Mobile Applications, PLC Monitoring Interfaces
 - 🌱 I’m currently learning ReactNative and Javascript!
 - 🏎️ I love motorsports!
 <!--- 🤔 I’m looking for help with ...
