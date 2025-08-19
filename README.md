@@ -6,12 +6,10 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Mobile Applications, API REST development and deploy, PLC Monitoring Interfaces
-- 🌱 I’m currently learning ReactNative and Javascript!
-- 🏎️ I love motorsports!
+- 🌱 I’m currently learning Django REST Framework and Javascript!
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-- 📫 How to reach me: IG: @_enrequiem
 
 
